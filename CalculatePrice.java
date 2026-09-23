@@ -14,8 +14,8 @@ public class CalculatePrice {
                 price = 20.0;
                 break;
             //
-            case "flat-white":
-                price = 25.0;
+            case "Cappuccino":
+                price = 15.0;
                 break;
             default:
                 price = 0.0;
