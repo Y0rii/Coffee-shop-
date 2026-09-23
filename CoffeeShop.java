@@ -11,7 +11,7 @@ public class CoffeeShop {
   
   if(answer==1)
 {
-System.out.println("Enter coffee type: (black/latte/flat-white)");
+System.out.println("Enter coffee type: (black/latte/Cappuccino)");
 String type=sc.next();
 System.out.println("Enter coffee size: (small/medium/large)");
 String size=sc.next();
@@ -25,7 +25,7 @@ System.out.print(coffee.DisplayOrder());
 }
 
  if(answer==2){
-System.out.println("Enter coffee type: (black/latte/flat-white)");
+System.out.println("Enter coffee type: (black/latte/Cappuccino)");
 String type=sc.next();
 System.out.println("Enter coffee size: (small/medium/large)");
 String size=sc.next();
